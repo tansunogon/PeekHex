@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26430.13
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeekHex", "PeekHex\PeekHex.csproj", "{1F31365F-C158-448A-A59F-30C357812235}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HexView", "HexView\HexView.csproj", "{1D5F98C6-4CEA-4710-9F04-0DA737134F18}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{1F31365F-C158-448A-A59F-30C357812235}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1F31365F-C158-448A-A59F-30C357812235}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1F31365F-C158-448A-A59F-30C357812235}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D5F98C6-4CEA-4710-9F04-0DA737134F18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D5F98C6-4CEA-4710-9F04-0DA737134F18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D5F98C6-4CEA-4710-9F04-0DA737134F18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D5F98C6-4CEA-4710-9F04-0DA737134F18}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
