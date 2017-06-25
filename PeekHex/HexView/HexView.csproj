@@ -48,7 +48,9 @@
     <Compile Include="HexView.Designer.cs">
       <DependentUpon>HexView.cs</DependentUpon>
     </Compile>
+    <Compile Include="DisplayItem.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ViewInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

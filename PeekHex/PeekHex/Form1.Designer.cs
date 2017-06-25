@@ -36,7 +36,7 @@
 			this.hexView1.BackColor = System.Drawing.SystemColors.Info;
 			this.hexView1.Location = new System.Drawing.Point(50, 77);
 			this.hexView1.Name = "hexView1";
-			this.hexView1.Size = new System.Drawing.Size(207, 160);
+			this.hexView1.Size = new System.Drawing.Size(856, 160);
 			this.hexView1.TabIndex = 0;
 			this.hexView1.Text = "hexView1";
 			// 
@@ -44,7 +44,7 @@
 			// 
 			this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-			this.ClientSize = new System.Drawing.Size(284, 261);
+			this.ClientSize = new System.Drawing.Size(935, 261);
 			this.Controls.Add(this.hexView1);
 			this.Name = "Form1";
 			this.Text = "Form1";
